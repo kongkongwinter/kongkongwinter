@@ -9,7 +9,7 @@ Hi, I'm kongkongwinter, a passionate developer and tech enthusiast. I am always 
 
 ## Learn More About My Work
 
-Visit [sprunki](https://sprunki.com/) to see some of the exciting projects and solutions I've been working on. Sprunki is where innovation meets functionality, bringing cutting-edge technology to life.
+Visit [sprunki](https://sprunki.com/) to see some of the exciting projects and solutions I've been working on. That's your go-to resource for diving into this vibrant musical universe. Discover the latest news, explore character guides, watch creative mixes, and access essential tools to enhance your Sprunki experience.
 
 ## Skills & Tools
 
@@ -19,7 +19,7 @@ Visit [sprunki](https://sprunki.com/) to see some of the exciting projects and s
 
 ## Connect With Me
 
-Feel free to send an email to 3106491921@qq.com for any collaboration opportunities or discussions.
+Feel free to send an email to Linus@gmail.com for any collaboration opportunities or discussions.
 
 ## Achievements
 
