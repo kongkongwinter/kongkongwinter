@@ -1,6 +1,4 @@
-# Welcome to My GitHub Profile
-
-Hi, I'm kongkongwinter, a passionate developer and tech enthusiast. I am always eager to explore new technologies and solve challenging problems.
+Hi, I'm Yndi Halda, a passionate developer and tech enthusiast. I am always eager to explore new technologies and solve challenging problems.
 
 ## Current Projects
 
